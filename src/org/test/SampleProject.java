@@ -5,6 +5,8 @@ public class SampleProject {
 		System.out.println("GITHUB");
 		System.out.println("BITBUCKET");
 		System.out.println("SCM");
+		System.out.println(12);
+		System.out.println(35666);
 	}
 
 }
